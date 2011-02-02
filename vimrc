@@ -43,6 +43,8 @@ set listchars=trail:.,tab:>-,eol:$
 set nolist
 :noremap ,i :set list!<CR> " Toggle invisible chars"
 
+:colorscheme ir_black
+
 " Set leader to comma
 let mapleader = ","
 
