@@ -46,7 +46,4 @@ set nolist
 :colorscheme ir_black
 
 " Set leader to comma
-let mapleader = ","
-
-" Set up command for NERDTree
-map <leader>n :NERDTree<CR>
+map <F7> :NERDTreeToggle<CR>
