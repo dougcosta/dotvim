@@ -45,5 +45,4 @@ set nolist
 
 :colorscheme ir_black
 
-" Set leader to comma
 map <F7> :NERDTreeToggle<CR>
